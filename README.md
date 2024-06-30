@@ -49,11 +49,5 @@ The graph reinforces the relationship between higher average daily rates and inc
 3. Launch marketing campaigns in January to counter the highest cancellation rates.
 4. Enhance hotel quality and services in Portugal to mitigate cancellations.
 
-## Usage
-1. Clone this repository.
-2. Install the required Python packages.
-3. Run the provided Python scripts for data analysis.
 
-## Contributors
-- Ananwita Sarkar
 
